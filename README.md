@@ -1,8 +1,6 @@
-# GOOD: a Global Orthographic Object Descriptor for 3D object recognition and manipulation
+## GOOD: a Global Orthographic Object Descriptor for 3D object recognition and manipulation
 * S. Hamidreza Kasaei, Ana Maria Tomé, Luís Seabra Lopes, Miguel Oliveira
 * http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
-
-** AUTHOR : ** Hamidreza Kasaei, <seyed.hamidreza@ua.pt>
 
 The Global Orthographic Object Descriptor (GOOD) has been designed to be robust, descriptive and efficient to compute and use. GOOD descriptor has two outstanding characteristics: 
 
@@ -17,6 +15,10 @@ The Global Orthographic Object Descriptor (GOOD) has been designed to be robust,
 
 The performance of the proposed object descriptor is compared with the main state-of-the-art descriptors. Experimental results show that the overall classification performance obtained with GOOD is comparable to the best performances obtained with the state-of-the-art descriptors. Concerning memory and computation time, GOOD clearly outperforms the other descriptors. Therefore, GOOD is especially suited for real-time applications.
 The current implementation of GOOD descriptor supports several functionalities for 3D object recognition and Object Manipulation.
+
+
+
+
 In the current distribution you can find 
   	
 	- an implementation of the GOOD descriptor (good.h and good.cpp)
