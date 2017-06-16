@@ -38,6 +38,7 @@ If you do publish a paper where GOOD descriptor helped your research, we encoura
 		year={2016}, 
 		pages={4158-4163}, 
 		doi={10.1109/IROS.2016.7759612}, 
+		url="http://ieeexplore.ieee.org/document/7759612/"
 		month={Oct},}
 	
 
