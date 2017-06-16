@@ -108,5 +108,5 @@ To show all the functionalities and properties of the GOOD descriptor, a demonst
 1. Please use the following email addresses if you have questions or want to contribute to this project:
 	- :email: <seyed.Hamidreza@ua.pt> 
 	- :email: <kasaei.hamidreza@gmail.com> 
-2. Follow us on our [website](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei) for updates and get information about other works:
+2. Follow us on our [website](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei) for updates and to get information about other works:
 	- :satellite: http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
