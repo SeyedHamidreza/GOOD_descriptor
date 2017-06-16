@@ -56,7 +56,7 @@ The required dependencies are [Point Cloud Library](www.pointclouds.org), [Boost
 	```
 
 ## BUILD
-We provide a CMakeLists.txt, therefore, the code can be build over different compilers and platforms by making use of CMake (www.cmake.org).
+We provide a CMakeLists.txt, therefore, the code can be build over different compilers and platforms by making use of [CMake](www.cmake.org).
 ```bash
 	mkdir build
 	cd build
@@ -91,8 +91,9 @@ A video of this demonstration is available in: https://youtu.be/iEq9TAaY9u8
 
 ## CONTACT INFORMATION 
 
-Please use the following email address, if you have questions or want to contribute to this project:
+-Please use the following email address, if you have questions or want to contribute to this project:
+-- Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
+-- Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
 
-- Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
-- Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
+-Follow us on our website for update:
 
