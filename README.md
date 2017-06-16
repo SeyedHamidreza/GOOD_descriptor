@@ -49,8 +49,8 @@ The required dependencies are [Point Cloud Library](www.pointclouds.org), [Boost
 	sudo apt-get install libpcl-all
 	```
 2. **[Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)** (http://eigen.tuxfamily.org/index.php?title=Main_Page)
-- Download Eigen
 	```bash
+	Download Eigen from http://eigen.tuxfamily.org/index.php?title=Main_Page
 	cd build
 	cmake ..
 	sudo make install
