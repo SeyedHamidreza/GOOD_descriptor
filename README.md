@@ -1,4 +1,4 @@
-# GOOD: a Global Orthographic Object Descriptor for 3D object recognition and manipulation
+# GOOD: A \Global Orthographic Object Descriptor for 3D object recognition and manipulation
 * **Hamidreza Kasaei**, Ana Maria Tomé, Luís Seabra Lopes, Miguel Oliveira
 * http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
 
