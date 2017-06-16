@@ -86,7 +86,7 @@ The syntax for runing the sample code is:
 
 ## REAl-TIME DEMONSTRATION 
 
-To show all the functionalities and properties of the GOOD descriptor, a real demonstration was performed. 
+To show all the functionalities and properties of the GOOD descriptor, a real demonstration was performed.
 :movie_camera: A video of this demonstration is available in: https://youtu.be/iEq9TAaY9u8
 
 ## CONTACT INFORMATION 
