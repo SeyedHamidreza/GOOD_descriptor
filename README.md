@@ -91,9 +91,8 @@ A video of this demonstration is available in: https://youtu.be/iEq9TAaY9u8
 
 ## CONTACT INFORMATION 
 
--Please use the following email address, if you have questions or want to contribute to this project:
--- Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
--- Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
-
--Follow us on our website for update:
+1. Please use the following email address, if you have questions or want to contribute to this project:
+- Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
+- Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
+2. Follow us on our website for update:
 
