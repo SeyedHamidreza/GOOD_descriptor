@@ -54,10 +54,10 @@ The required dependencies are [Point Cloud Library](www.pointclouds.org), [Boost
 ## BUILD
 We provide a CMakeLists.txt, therefore, the code can be build over different compilers and platforms by making use of [CMake](www.cmake.org).
 ```bash
-	mkdir build
-	cd build
-	cmake ..
-	make
+mkdir build
+cd build
+cmake ..
+make
 ```
 
 ## CODE 
@@ -71,8 +71,8 @@ First of all you will need a point cloud in PCD or PLY format. For your convenie
 
 The syntax for runing the sample code is: 
 ```bash
-	- $./test_GOOD_descriptor <path/file_name.pcd> [--nogui]	
-	- $./test_GOOD_descriptor <path/file_name.ply> [--nogui]
+- $./test_GOOD_descriptor <path/file_name.pcd> [--nogui]	
+- $./test_GOOD_descriptor <path/file_name.ply> [--nogui]
 ```
 
 - Use [--nogui] option to disable visualization.
