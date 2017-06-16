@@ -79,8 +79,8 @@ The syntax for runing the sample code is:
 
 ### Example:
 
-	GOOD_descriptor/build$ ./test_GOOD_descriptor ../point_cloud/vase.pcd 
-	GOOD_descriptor/build$ ./test_GOOD_descriptor ../point_cloud/vase.pcd --nogui
+	-$ ./test_GOOD_descriptor ../point_cloud/vase.pcd 
+	-$ ./test_GOOD_descriptor ../point_cloud/vase.pcd --nogui
 
 
 
