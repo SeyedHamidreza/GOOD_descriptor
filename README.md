@@ -95,6 +95,5 @@ To show all the functionalities and properties of the GOOD descriptor, a real de
 1. Please use the following email address, if you have questions or want to contribute to this project:
 	- :email: Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
 	- :email: Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
-2. Follow us on our [website](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
-) for update and get infromaation about other works:
+2. Follow us on our [website](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei) for update and get information about other works:
 	- :satellite: http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
