@@ -36,17 +36,21 @@ This is an implementation of the GOOD descriptor which has been presented in the
 Please adequately refer to this work any time this code is being used by citing above papers.
 If you do publish a paper where GOOD descriptor helped your research, we encourage you to cite the above papers in your publications.
 
+## LICENSE 
+The GOOD descriptor code is released under the BSD License. A version of this code under a different licensing agreement, intended for commercial use, is also available. Please contact me if interested.
+
+
 ## DEPENDENCIES
 
 The required dependencies are Point Cloud Library (www.pointclouds.org), Boost (www.boost.org) and Eigen (eigen.tuxfamily.org).
 
-**1. PCL** (http://www.pointclouds.org/downloads/)
+1. **PCL** (http://www.pointclouds.org/downloads/)
 	```bash
 	sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl
 	sudo apt-get update
 	sudo apt-get install libpcl-all
 	```
-**2. Eigen** (http://eigen.tuxfamily.org/index.php?title=Main_Page)	
+2. **Eigen** (http://eigen.tuxfamily.org/index.php?title=Main_Page)	
 	- Download Eigen
 	```bash
 	cd build
@@ -70,7 +74,8 @@ For your convenience, we have provided a set of sample point clouds in both PLY 
 
 The syntax for runing the sample code is: 
 ```bash
-	"test_GOOD_descriptor <path/file_name.pcd> [--nogui]" or "test_GOOD_descriptor <path/file_name.ply> [--nogui]"
+	- $./test_GOOD_descriptor <path/file_name.pcd> [--nogui]	
+	- $./test_GOOD_descriptor <path/file_name.ply> [--nogui]
 ```
 
 - Use [--nogui] option to disable visualization.
@@ -94,5 +99,3 @@ Please use the following email address, if you have questions or want to contrib
 - Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
 - Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
 
-## LICENSE 
-The GOOD descriptor code is released under the BSD License. A version of this code under a different licensing agreement, intended for commercial use, is also available. Please contact me if interested.
