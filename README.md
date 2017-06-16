@@ -49,7 +49,7 @@ The required dependencies are [Point Cloud Library](www.pointclouds.org), [Boost
 	```
 2. **[Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)** (http://eigen.tuxfamily.org/index.php?title=Main_Page)
 	```bash
-	Download Eigen from http://eigen.tuxfamily.org/index.php?title=Main_Page
+	hg clone https://bitbucket.org/eigen/eigen/
 	cd build
 	cmake ..
 	sudo make install
