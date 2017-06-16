@@ -92,7 +92,8 @@ A video of this demonstration is available in: https://youtu.be/iEq9TAaY9u8
 ## CONTACT INFORMATION 
 
 1. Please use the following email address, if you have questions or want to contribute to this project:
-- Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
-- Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
-2. Follow us on our website for update:
-
+	- Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
+	- Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
+2. Follow us on our [website](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
+) for update and get infromaation about other works:
+http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
