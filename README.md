@@ -5,10 +5,10 @@
 The Global Orthographic Object Descriptor (GOOD) has been designed to be robust, descriptive and efficient to compute and use. GOOD descriptor has two outstanding characteristics: 
 
 1. **Providing a good trade-off among :**
-	1. descriptiveness,
-  	2. robustness,
-  	3. computation time,
-  	4. memory usage.
+	- descriptiveness,
+  	- robustness,
+  	- computation time,
+  	- memory usage.
 2. **Allowing concurrent object recognition and pose estimation for manipulation.**
 
 The performance of the proposed object descriptor is compared with the main state-of-the-art descriptors. Experimental results show that the overall classification performance obtained with GOOD is comparable to the best performances obtained with the state-of-the-art descriptors. Concerning memory and computation time, GOOD clearly outperforms the other descriptors. Therefore, GOOD is especially suited for real-time applications.
