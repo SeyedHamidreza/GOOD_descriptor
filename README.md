@@ -87,13 +87,13 @@ The syntax for runing the sample code is:
 ## REAl-TIME DEMONSTRATION 
 
 To show all the functionalities and properties of the GOOD descriptor, a real demonstration was performed. 
-A video of this demonstration is available in: https://youtu.be/iEq9TAaY9u8
+:movie_camera: A video of this demonstration is available in: https://youtu.be/iEq9TAaY9u8
 
 ## CONTACT INFORMATION 
 
 1. Please use the following email address, if you have questions or want to contribute to this project:
-	- Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
-	- Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
+	- :email: Hamidreza Kasaei <seyed.Hamidreza@ua.pt> 
+	- :email: Hamidreza Kasaei <kasaei.hamidreza@gmail.com> 
 2. Follow us on our [website](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
 ) for update and get infromaation about other works:
-	- http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
+	- :satellite: http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
