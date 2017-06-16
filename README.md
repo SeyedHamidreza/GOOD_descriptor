@@ -15,8 +15,8 @@ The performance of the proposed object descriptor is compared with the main stat
 The current implementation of GOOD descriptor supports several functionalities for 3D object recognition and Object Manipulation.
 
 In the current distribution you can find:  
-1. an implementation of the GOOD descriptor (good.h and good.cpp)
-2. a test that demonstrates (test_GOOD_descriptor.cpp) how to use it on a test object
+- an implementation of the GOOD descriptor (good.h and good.cpp)
+- a test that demonstrates (test_GOOD_descriptor.cpp) how to use it on a test object
 
 
 ## CITING
