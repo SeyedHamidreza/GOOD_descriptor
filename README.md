@@ -2,7 +2,7 @@
 * S. Hamidreza Kasaei, Ana Maria Tomé, Luís Seabra Lopes, Miguel Oliveira
 * http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
 
-AUTHOR : Hamidreza Kasaei, <seyed.hamidreza@ua.pt>
+** AUTHOR : ** Hamidreza Kasaei, <seyed.hamidreza@ua.pt>
 
 The Global Orthographic Object Descriptor (GOOD) has been designed to be robust, descriptive and efficient to compute and use. GOOD descriptor has two outstanding characteristics: 
 
