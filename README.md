@@ -19,15 +19,27 @@ This is an implementation of the GOOD descriptor, which has been presented in th
 Please adequately refer to the papers any time this code is being used. 
 If you do publish a paper where GOOD descriptor helped your research, we encourage you to cite the following papers in your publications.
 
-	[1] Kasaei, S. Hamidreza,  Ana Maria Tomé, Luís Seabra Lopes, Miguel Oliveira 
-	"GOOD: A global orthographic object descriptor for 3D object recognition and manipulation." 
-	Pattern Recognition Letters 83 (2016): 312-320.
-	http://dx.doi.org/10.1016/j.patrec.2016.07.006
+	@article{GOODPRL,
+		title = "GOOD: A global orthographic object descriptor for 3D object recognition and manipulation",
+		journal = "Pattern Recognition Letters",
+		volume = "83",
+		pages = "312 - 320",
+		year = "2016",
+		note = "Efficient Shape Representation, Matching, Ranking, and its Applications",
+		issn = "0167-8655",
+		doi = "http://dx.doi.org/10.1016/j.patrec.2016.07.006",
+		url = "http://www.sciencedirect.com/science/article/pii/S0167865516301684",
+		author = "S. Hamidreza Kasaei and Ana Maria Tomé and Luís Seabra Lopes and Miguel Oliveira",}
 
-	[2] Kasaei, S. Hamidreza, Luís Seabra Lopes, Ana Maria Tomé, Miguel Oliveira 
-	"An orthographic descriptor for 3D object learning and recognition." 
-	2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, 2016, 
-	pp. 4158-4163. doi: 10.1109/IROS.2016.7759612
+	@INPROCEEDINGS{GOODIROS, 
+		author={S. H. Kasaei and L. Seabra Lopes and A. M. Tomé and M. Oliveira}, 
+		booktitle={2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+		title={An orthographic descriptor for 3D object learning and recognition}, 
+		year={2016}, 
+		pages={4158-4163}, 
+		doi={10.1109/IROS.2016.7759612}, 
+		month={Oct},}
+	
 
 
 ## LICENSE 
@@ -71,29 +83,29 @@ First of all you will need a point cloud in PCD or PLY format. For your convenie
 
 The syntax for runing the sample code is: 
 ```bash
-- $./test_GOOD_descriptor <path/file_name.pcd> [--nogui]	
-- $./test_GOOD_descriptor <path/file_name.ply> [--nogui]
+./test_GOOD_descriptor <path/file_name.pcd> [--nogui]	
+./test_GOOD_descriptor <path/file_name.ply> [--nogui]
 ```
 
 - Use [--nogui] option to disable visualization.
 
 ### Example:
 
-	-$ ./test_GOOD_descriptor ../point_cloud/vase.pcd 
-	-$ ./test_GOOD_descriptor ../point_cloud/vase.pcd --nogui
+	./test_GOOD_descriptor ../point_cloud/vase.pcd 
+	./test_GOOD_descriptor ../point_cloud/vase.pcd --nogui
 
 
 
 ## REAl-TIME DEMONSTRATION 
 
-To show all the functionalities and properties of the GOOD descriptor, a real demonstration was performed.
+To show all the functionalities and properties of the GOOD descriptor, a demonstration in real time was performed.
 
 :movie_camera: A video of this demonstration is available in: https://youtu.be/iEq9TAaY9u8
 
 ## CONTACT INFORMATION 
 
-1. Please use the following email address, if you have questions or want to contribute to this project:
+1. Please use the following email addresses if you have questions or want to contribute to this project:
 	- :email: <seyed.Hamidreza@ua.pt> 
 	- :email: <kasaei.hamidreza@gmail.com> 
-2. Follow us on our [website](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei) for update and get information about other works:
+2. Follow us on our [website](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei) for updates and get information about other works:
 	- :satellite: http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei
