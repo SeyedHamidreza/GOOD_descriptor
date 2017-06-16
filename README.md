@@ -77,7 +77,7 @@ make
 
 In the current distribution you can find:  
 - an implementation of the GOOD descriptor (good.h and good.cpp)
-- a sample test code that demonstrates (test_GOOD_descriptor.cpp) how to use it on a test object
+- a sample test code (test_GOOD_descriptor.cpp) that demonstrates how to use it on a test object
 
 ### How to run the sample code
 First of all you will need a point cloud in PCD or PLY format. For your convenience, we have provided a set of sample point clouds in both PLY and PCD format in a folder named "point_cloud". 
