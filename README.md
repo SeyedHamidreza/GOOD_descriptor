@@ -13,10 +13,6 @@ The Global Orthographic Object Descriptor (GOOD) has been designed to be robust,
 The performance of the proposed object descriptor is compared with the main state-of-the-art descriptors. Experimental results show that the overall classification performance obtained with GOOD is comparable to the best performances obtained with the state-of-the-art descriptors. Concerning memory and computation time, GOOD clearly outperforms the other descriptors. Therefore, GOOD is especially suited for real-time applications.
 The current implementation of GOOD descriptor supports several functionalities for 3D object recognition and Object Manipulation.
 
-In the current distribution you can find:  
-- an implementation of the GOOD descriptor (good.h and good.cpp)
-- a test that demonstrates (test_GOOD_descriptor.cpp) how to use it on a test object
-
 
 ## CITING
 This is an implementation of the GOOD descriptor, which has been presented in the following papers.
@@ -64,10 +60,14 @@ We provide a CMakeLists.txt, therefore, the code can be build over different com
 	make
 ```
 
-## How TO RUN THE SAMPLE CODE 
+## CODE 
 
-First of all you will need a point cloud in PCD or PLY format. 
-For your convenience, we have provided a set of sample point clouds in both PLY and PCD format in a folder namely "point_cloud". 
+In the current distribution you can find:  
+- an implementation of the GOOD descriptor (good.h and good.cpp)
+- a test that demonstrates (test_GOOD_descriptor.cpp) how to use it on a test object
+
+### How to run the sample code
+First of all you will need a point cloud in PCD or PLY format. For your convenience, we have provided a set of sample point clouds in both PLY and PCD format in a folder namely "point_cloud". 
 
 The syntax for runing the sample code is: 
 ```bash
