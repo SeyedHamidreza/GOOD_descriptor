@@ -34,6 +34,7 @@ If you do publish a paper where GOOD descriptor helped your research, we encoura
 	2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, 2016, 
 	pp. 4158-4163. doi: 10.1109/IROS.2016.7759612
 
+
 ## LICENSE 
 The GOOD descriptor code is released under the BSD License. A version of this code under a different licensing agreement, intended for commercial use, is also available. Please contact me if interested.
 
@@ -41,7 +42,7 @@ The GOOD descriptor code is released under the BSD License. A version of this co
 ## DEPENDENCIES
 The required dependencies are Point Cloud Library (www.pointclouds.org), Boost (www.boost.org) and Eigen (eigen.tuxfamily.org).
 
-1. **(PCL)[http://www.pointclouds.org/downloads/]** (http://www.pointclouds.org/downloads/)
+1. **[PCL](http://www.pointclouds.org/downloads/)** (http://www.pointclouds.org/downloads/)
 	```bash
 	sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl
 	sudo apt-get update
