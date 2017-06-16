@@ -1,7 +1,7 @@
-# GOOD: a Global Orthographic Object Descriptor for 3D object recognition and manipulation
+# GOOD: A Global Orthographic Object Descriptor for 3D )bject Recognition and Manipulation
 ###### [Hamidreza Kasaei](http://wiki.ieeta.pt/wiki/index.php/Hamidreza_Kasaei), Ana Maria Tomé, Luís Seabra Lopes, Miguel Oliveira
 ##
-The Global Orthographic Object Descriptor (GOOD) has been designed to be robust, descriptive and efficient to compute and use. GOOD descriptor has two outstanding characteristics: 
+The **G**lobal **O**rthographic **O**bject **D**escriptor (**GOOD**) has been designed to be robust, descriptive and efficient to compute and use. GOOD descriptor has two outstanding characteristics: 
 
 1. **Providing a good trade-off among :**
 	- descriptiveness,
