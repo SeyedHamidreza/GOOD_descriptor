@@ -43,7 +43,7 @@ If you do publish a paper where GOOD descriptor helped your research, we encoura
 
 
 ## LICENSE 
-The GOOD descriptor code is released under the BSD License. A version of this code under a different licensing agreement, intended for commercial use, is also available. Please contact me if interested.
+The GOOD descriptor code is released under the BSD License. A version of this code under a different licensing agreement, intended for commercial use, is also available. Please contact if interested.
 
 
 ## DEPENDENCIES
