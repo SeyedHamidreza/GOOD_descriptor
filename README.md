@@ -40,7 +40,7 @@ The GOOD descriptor code is released under the BSD License. A version of this co
 
 
 ## DEPENDENCIES
-The required dependencies are Point Cloud Library (www.pointclouds.org), Boost (www.boost.org) and Eigen (eigen.tuxfamily.org).
+The required dependencies are [Point Cloud Library](www.pointclouds.org), [Boost](www.boost.org) and [Eigen](eigen.tuxfamily.org):
 
 1. **[PCL](http://www.pointclouds.org/downloads/)** (http://www.pointclouds.org/downloads/)
 	```bash
