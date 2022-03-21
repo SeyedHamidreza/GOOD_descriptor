@@ -3,6 +3,8 @@
 ##
 
 ![alt text](overview.png)
+
+
 The **G**lobal **O**rthographic **O**bject **D**escriptor (**GOOD**) has been designed to be robust, descriptive and efficient to compute and use. GOOD descriptor has two outstanding characteristics: 
 
 1. **Providing a good trade-off among :**
