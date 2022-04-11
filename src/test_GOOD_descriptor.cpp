@@ -12,6 +12,7 @@
 #include <pcl/visualization/histogram_visualizer.h>
 
 typedef pcl::PointXYZRGB PointT;  
+//typedef pcl::PointXYZRGBA PointT;  
 
 void
 visualizationPointCloud(boost::shared_ptr<pcl::PointCloud<PointT> > point_cloud, std::string name_of_window)
